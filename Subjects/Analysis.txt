@@ -1,0 +1,8 @@
+On the basis of Confidence :-
+
+1. Economics - > Geography 		66.67%
+2. French - > Geograpgy			66.67%
+3. Hindi - > Marathi			57.14%
+4. Economics - > Political Science	55.56%
+5. Geography - > Political Science	38.46%
+6. Economics - > French			22.22%
